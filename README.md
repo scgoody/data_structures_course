@@ -1,8 +1,8 @@
-# C++ Data Structures Coursework & Projects
+# C++ Data Structures Demo Projects
 This repo contains many standard data structure implementations coded in C++, created as part of an undergraduate level Data Structures course. Each project is structured to compile and run using Visual Studio 2022.
 
 ## Repo Structure
-data_structures_course/  
+data_structures_demos/  
 │  
 ├── ArrayPriorityQueueDemo/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Array-based Priority Queue implementation  
 │ ├── ArrayPriorityQueue.cpp  
@@ -69,8 +69,8 @@ data_structures_course/
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/scgoody/data_structures_course.git
-   cd data_structures_course
+   git clone https://github.com/scgoody/data_structures_demos.git
+   cd data_structures_demos
 2. Open any `.sln` file in Visual Studio
 3. Build & run project demo
 
